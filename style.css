@@ -17,7 +17,7 @@ selektor {
 
    .kartu-profil img {
      width: 150Px;
-     border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi */
+     border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
    }
       
   
