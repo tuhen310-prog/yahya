@@ -1,0 +1,23 @@
+selektor {
+  properti {
+    body{
+      background-color: #FFFFE0;/* Warna Kuning cerah */
+    font-family:Arial,sans-serif;/* Jenis huruf yang bersih dan mudah dibaca */
+    color: #191970; /* Warna teks utama(Biru Gelab) */
+    }
+    .Kartu-profil{
+      width: 300Px;
+      marging: 50Px auto;/* 50Px jarak atas/bawah , auto menengahkan kiri/kanan */
+    padding: 20Px;
+      background-color: white;
+      border-radius: 15Px; /* Membuat sudut menjandi melengkung */
+    box-shadow: 0 4Px 8Px rgb(0,0,0,0.1); /* Efek bayangan */
+      text-align: center; /* menengahkan semua teks didalam kartu */
+    }
+
+   .kartu-profil img {
+     width: 150Px;
+     border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi */
+   }
+      
+  
